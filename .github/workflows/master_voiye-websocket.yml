@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'voiye-websocket'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_975B070274F84D4FAE0151F2E18362BB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F814DBA0226A4979B5D11C785ADDC3A0 }}
           package: .
